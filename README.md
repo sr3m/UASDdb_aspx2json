@@ -1,4 +1,4 @@
-# UASDdb_aspx2json
+# 💾 UASDdb_aspx2json
 
 UASD database aspx to json is a python script that allows you to get data from the UASD ASPX server (Semester Schedule Server) and translate it into JSON. This allows the developer to manage raw data from the server.
 
