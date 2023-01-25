@@ -13,6 +13,8 @@
 * Pandas
 * OS
 
+## How to query?
+
 In order to use the script, you should query the server with two arguments: **Location of the subjects [Campus]** and **Subjects Code [Key]**
 
 
