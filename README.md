@@ -4,7 +4,18 @@ UASD database aspx to json is a python script that allows you to get data from t
 
 ## Requirements
 
-* Requests module
-* Json module
-* Pandas module
-* OS module
+*Requiered* packages:
+
+* Requests
+* Json
+* Pandas
+* OS
+
+
+```mermaid
+
+graph LR
+  hola --> hola2
+
+```
+
